@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <null name="listACL"/>
+  <value name="webappLoad">yes</value>
+  <value name="reloadWithDependentPackage">yes</value>
+  <value name="name">GitTesV02</value>
+  <value name="build"></value>
+  <null name="description"/>
+  <value name="time">2022-05-09 13:55:20 CDT</value>
+  <value name="jvm_version">1.8.0_322</value>
+  <value name="publisher">cusvmdevapintsa.america.littelfuse.com</value>
+  <value name="patch_nums"></value>
+</Values>
